@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class A2_5 {
+public class Assignment2q5 {
     public static void main(String args[]) {
         int array[][] = new int[3][3];
         System.out.println("Enter 9 elements of the 3*3 matrix:");
