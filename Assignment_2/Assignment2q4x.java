@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class A2_4 {
+public class Assignment2q4x {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
